@@ -1,0 +1,9 @@
+[submodule "nodejs-runtime"]
+	path = nodejs-runtime
+	url = https://github.com/hypercloud/nodejs-runtime
+[submodule "nodejs-base"]
+	path = nodejs-base
+	url = https://github.com/hypercloud/nodejs-base
+[submodule "nodejs-hello"]
+	path = nodejs-hello
+	url = https://github.com/hypercloud/nodejs-hello
